@@ -1,0 +1,16 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #200834;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.content {
+    display: table;
+    width: 80%;
+    font-weight: 600;
+    margin: 10px auto 0;
+}
